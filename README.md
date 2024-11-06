@@ -46,7 +46,7 @@ Description: A To-Do App built with TypeScript, React, and MongoDB for the front
 
 ## 📫 Get in Touch
 
-- LinkedIn(https://github.com/shivanisharma19/shivanisharma19)
+- LinkedIn(https://www.linkedin.com/in/shivani-sharma-015aa4144)
 - Portfolio(https://github.com/shivanisharma19)
 
 I'm always eager to connect with fellow developers and tech enthusiasts. Let's share knowledge and build amazing things together!
