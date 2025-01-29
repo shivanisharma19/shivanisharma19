@@ -4,8 +4,8 @@ I'm a passionate **Frontend Developer** with experience in building dynamic, res
 
 ## 🚀 About Me
 
-- 🖥️ Currently working as a Frontend Developer with **Javascript, Typescript, React, Redux, Zustand, Webpack, Babel**
-- 🌱 Learning backend technologies like **Java, Springboot, Kotlin, ktor and databases (MongoDB, PostgreSQL)** to complement my frontend expertise
+- 🖥️ Currently working as a Frontend Developer with **Javascript, Typescript, React, Redux, Zustand, Webpack, Babel, Cypress, Selenium**
+- 🌱 Learning backend technologies like **Next, Java, Springboot, Kotlin, ktor and databases (MongoDB, PostgreSQL)** to complement my frontend expertise
 - 💬 Open to collaborating on **web development projects**, especially those involving **fullstack development**
 - ⚡ Fun fact: I have a solid foundation in **Mathematics and Computing**, which fuels my interest in complex problem-solving and algorithms.
 
